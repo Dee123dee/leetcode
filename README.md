@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Dee123dee/leetcode/tree/master/0018-4sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0638-shopping-offers](https://github.com/Dee123dee/leetcode/tree/master/0638-shopping-offers) |
 | [0904-fruit-into-baskets](https://github.com/Dee123dee/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/Dee123dee/leetcode/tree/master/0638-shopping-offers) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Dee123dee/leetcode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Dee123dee/leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
