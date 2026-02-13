@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Dee123dee/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dee123dee/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/Dee123dee/leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Dee123dee/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dee123dee/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dee123dee/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Dee123dee/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1314-matrix-block-sum](https://github.com/Dee123dee/leetcode/tree/master/1314-matrix-block-sum) |
+| [3714-longest-balanced-substring-ii](https://github.com/Dee123dee/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dee123dee/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dee123dee/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Dee123dee/leetcode/tree/master/0072-edit-distance) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dee123dee/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/Dee123dee/leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Dee123dee/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
 |  |
 | ------- |
