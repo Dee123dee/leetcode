@@ -1,36 +1,51 @@
+
+
 import java.util.*;
 
-class Solution{
-    public List<Integer>diffWaysToCompute(String expression){
-        List<Integer>result=new ArrayList<>();
+class Solution {
 
-        for(int i=0;i<expression.length();i++){
-            char ch=expression.charAt(i);
+    private Map<String, List<Integer>> memo = new HashMap<>();
+         public List<Integer> diffWaysToCompute(String expression) {
 
-            if(ch=='+'||ch=='-'||ch=='*'){
-                List<Integer>left=diffWaysToCompute(expression.substring(0,i));
-                List<Integer>right=diffWaysToCompute(expression.substring(i+1));
+       
+        if (memo.containsKey(expression)) {
+             return memo.get(expression);
+        }
 
-                for(int a:left){
-                    for(int b:right){
-                        if(ch=='+'){
-                            result.add(a+b);
-                        }
-                        else if(ch=='-'){
-                            result.add(a-b);
-                        }
-                        else{
-                            result.add(a*b);
+        List<Integer> result = new ArrayList<>();
+
+        for (int i = 0; i < expression.length(); i++) {
+            char ch = expression.charAt(i);
+
+            if (ch == '+' || ch == '-' || ch == '*') {
+          String leftPart = expression.substring(0, i);
+
+                String rightPart = expression.substring(i + 1);
+
+       
+                List<Integer> leftResults = diffWaysToCompute(leftPart);
+
+                List<Integer> rightResults = diffWaysToCompute(rightPart);
+
+               
+                for (int left : leftResults) {
+                    for (int right : rightResults) {
+                         if (ch == '+') {
+                            result.add(left + right);
+                         }else if (ch == '-') {
+                            result.add(left - right);
+                        }else if (ch == '*') {
+                             result.add(left * right);
                         }
                     }
                 }
             }
         }
-
-        if(result.size()==0){
+        if (result.isEmpty()) {
             result.add(Integer.parseInt(expression));
         }
 
+    memo.put(expression, result);
         return result;
     }
 }
