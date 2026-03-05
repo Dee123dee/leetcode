@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Dee123dee/leetcode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Dee123dee/leetcode/tree/master/0046-permutations) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0239-sliding-window-maximum](https://github.com/Dee123dee/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dee123dee/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
 | [0904-fruit-into-baskets](https://github.com/Dee123dee/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dee123dee/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dee123dee/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
 | [1314-matrix-block-sum](https://github.com/Dee123dee/leetcode/tree/master/1314-matrix-block-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dee123dee/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dee123dee/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Dee123dee/leetcode/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/Dee123dee/leetcode/tree/master/0401-binary-watch) |
 | [0638-shopping-offers](https://github.com/Dee123dee/leetcode/tree/master/0638-shopping-offers) |
