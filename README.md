@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Dee123dee/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1314-matrix-block-sum](https://github.com/Dee123dee/leetcode/tree/master/1314-matrix-block-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dee123dee/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dee123dee/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0638-shopping-offers](https://github.com/Dee123dee/leetcode/tree/master/0638-shopping-offers) |
+| [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dee123dee/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dee123dee/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dee123dee/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dee123dee/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
