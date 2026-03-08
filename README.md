@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Dee123dee/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dee123dee/leetcode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Dee123dee/leetcode/tree/master/0046-permutations) |
@@ -131,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Dee123dee/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dee123dee/leetcode/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0696-count-binary-substrings](https://github.com/Dee123dee/leetcode/tree/master/0696-count-binary-substrings) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Dee123dee/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dee123dee/leetcode/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
