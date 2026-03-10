@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/Dee123dee/leetcode/tree/master/0638-shopping-offers) |
 | [0713-subarray-product-less-than-k](https://github.com/Dee123dee/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Dee123dee/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dee123dee/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1314-matrix-block-sum](https://github.com/Dee123dee/leetcode/tree/master/1314-matrix-block-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dee123dee/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/Dee123dee/leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dee123dee/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dee123dee/leetcode/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dee123dee/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
