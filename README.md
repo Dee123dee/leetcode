@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0239-sliding-window-maximum](https://github.com/Dee123dee/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/Dee123dee/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0480-sliding-window-median](https://github.com/Dee123dee/leetcode/tree/master/0480-sliding-window-median) |
 | [0503-next-greater-element-ii](https://github.com/Dee123dee/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0638-shopping-offers](https://github.com/Dee123dee/leetcode/tree/master/0638-shopping-offers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Dee123dee/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Dee123dee/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1314-matrix-block-sum](https://github.com/Dee123dee/leetcode/tree/master/1314-matrix-block-sum) |
 | [3714-longest-balanced-substring-ii](https://github.com/Dee123dee/leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/Dee123dee/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0638-shopping-offers](https://github.com/Dee123dee/leetcode/tree/master/0638-shopping-offers) |
 | [1143-longest-common-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Dee123dee/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/Dee123dee/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Dee123dee/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0878-nth-magical-number](https://github.com/Dee123dee/leetcode/tree/master/0878-nth-magical-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/1382-balance-a-binary-search-tree) |
