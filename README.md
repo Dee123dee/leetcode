@@ -326,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dee123dee/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Dee123dee/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
