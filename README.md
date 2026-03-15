@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dee123dee/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0878-nth-magical-number](https://github.com/Dee123dee/leetcode/tree/master/0878-nth-magical-number) |
+| [1622-fancy-sequence](https://github.com/Dee123dee/leetcode/tree/master/1622-fancy-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Dee123dee/leetcode/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dee123dee/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dee123dee/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Enumeration
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1622-fancy-sequence](https://github.com/Dee123dee/leetcode/tree/master/1622-fancy-sequence) |
 ## Data Stream
 |  |
 | ------- |
