@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Dee123dee/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Dee123dee/leetcode/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Dee123dee/leetcode/tree/master/0146-lru-cache) |
 | [0480-sliding-window-median](https://github.com/Dee123dee/leetcode/tree/master/0480-sliding-window-median) |
 | [0904-fruit-into-baskets](https://github.com/Dee123dee/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dee123dee/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Dee123dee/leetcode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1622-fancy-sequence](https://github.com/Dee123dee/leetcode/tree/master/1622-fancy-sequence) |
@@ -363,8 +365,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Dee123dee/leetcode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0146-lru-cache](https://github.com/Dee123dee/leetcode/tree/master/0146-lru-cache) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Dee123dee/leetcode/tree/master/0210-course-schedule-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Dee123dee/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
