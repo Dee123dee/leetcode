@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Dee123dee/leetcode/tree/master/3379-transformed-array) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dee123dee/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dee123dee/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Dee123dee/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dee123dee/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dee123dee/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dee123dee/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dee123dee/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dee123dee/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Dee123dee/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Dee123dee/leetcode/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0696-count-binary-substrings](https://github.com/Dee123dee/leetcode/tree/master/0696-count-binary-substrings) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Dee123dee/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
