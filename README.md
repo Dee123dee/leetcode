@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Dee123dee/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Dee123dee/leetcode/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/Dee123dee/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dee123dee/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0878-nth-magical-number](https://github.com/Dee123dee/leetcode/tree/master/0878-nth-magical-number) |
 | [1622-fancy-sequence](https://github.com/Dee123dee/leetcode/tree/master/1622-fancy-sequence) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/Dee123dee/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Dee123dee/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dee123dee/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/Dee123dee/leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Dee123dee/leetcode/tree/master/0148-sort-list) |
+| [0445-add-two-numbers-ii](https://github.com/Dee123dee/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Topological Sort
 |  |
 | ------- |
