@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Dee123dee/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Dee123dee/leetcode/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0221-maximal-square](https://github.com/Dee123dee/leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Dee123dee/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/Dee123dee/leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dee123dee/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
+| [0221-maximal-square](https://github.com/Dee123dee/leetcode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1314-matrix-block-sum](https://github.com/Dee123dee/leetcode/tree/master/1314-matrix-block-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dee123dee/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Dee123dee/leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0221-maximal-square](https://github.com/Dee123dee/leetcode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/Dee123dee/leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
