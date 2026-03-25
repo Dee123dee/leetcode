@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Dee123dee/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Dee123dee/leetcode/tree/master/0729-my-calendar-i) |
 | [0904-fruit-into-baskets](https://github.com/Dee123dee/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dee123dee/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1314-matrix-block-sum](https://github.com/Dee123dee/leetcode/tree/master/1314-matrix-block-sum) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Dee123dee/leetcode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Dee123dee/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0480-sliding-window-median](https://github.com/Dee123dee/leetcode/tree/master/0480-sliding-window-median) |
+| [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Dee123dee/leetcode/tree/master/1424-diagonal-traverse-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dee123dee/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Monotonic Queue
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Dee123dee/leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Dee123dee/leetcode/tree/master/0190-reverse-bits) |
+| [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dee123dee/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dee123dee/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -465,4 +469,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Dee123dee/leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
