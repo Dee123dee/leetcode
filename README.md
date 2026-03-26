@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Dee123dee/leetcode/tree/master/0337-house-robber-iii) |
+| [0802-find-eventual-safe-states](https://github.com/Dee123dee/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Dee123dee/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dee123dee/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Dee123dee/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Dee123dee/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/Dee123dee/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Dee123dee/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/Dee123dee/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dee123dee/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Dee123dee/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/Dee123dee/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Doubly-Linked List
 |  |
 | ------- |
