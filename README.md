@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dee123dee/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dee123dee/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dee123dee/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dee123dee/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dee123dee/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dee123dee/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dee123dee/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Dee123dee/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Dee123dee/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dee123dee/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dee123dee/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dee123dee/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dee123dee/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dee123dee/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dee123dee/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dee123dee/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Segment Tree
 |  |
 | ------- |
