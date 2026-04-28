@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/Dee123dee/leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Dee123dee/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/Dee123dee/leetcode/tree/master/0274-h-index) |
 | [0312-burst-balloons](https://github.com/Dee123dee/leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dee123dee/leetcode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Dee123dee/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Dee123dee/leetcode/tree/master/0148-sort-list) |
+| [0274-h-index](https://github.com/Dee123dee/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Dee123dee/leetcode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
