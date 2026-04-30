@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Dee123dee/leetcode/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Dee123dee/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Dee123dee/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dee123dee/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Dee123dee/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Dee123dee/leetcode/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Dee123dee/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Dee123dee/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dee123dee/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Dee123dee/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Dee123dee/leetcode/tree/master/0275-h-index-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Dee123dee/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/Dee123dee/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/Dee123dee/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Dee123dee/leetcode/tree/master/0729-my-calendar-i) |
 | [0878-nth-magical-number](https://github.com/Dee123dee/leetcode/tree/master/0878-nth-magical-number) |
