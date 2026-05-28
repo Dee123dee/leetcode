@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Dee123dee/leetcode/tree/master/0337-house-robber-iii) |
+| [0437-path-sum-iii](https://github.com/Dee123dee/leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Dee123dee/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Dee123dee/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dee123dee/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Dee123dee/leetcode/tree/master/0337-house-robber-iii) |
+| [0437-path-sum-iii](https://github.com/Dee123dee/leetcode/tree/master/0437-path-sum-iii) |
 | [0802-find-eventual-safe-states](https://github.com/Dee123dee/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Dee123dee/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dee123dee/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Dee123dee/leetcode/tree/master/0337-house-robber-iii) |
+| [0437-path-sum-iii](https://github.com/Dee123dee/leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Dee123dee/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Dee123dee/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dee123dee/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
