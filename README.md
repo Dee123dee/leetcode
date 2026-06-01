@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Dee123dee/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Dee123dee/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/Dee123dee/leetcode/tree/master/0456-132-pattern) |
 | [0480-sliding-window-median](https://github.com/Dee123dee/leetcode/tree/master/0480-sliding-window-median) |
 | [0498-diagonal-traverse](https://github.com/Dee123dee/leetcode/tree/master/0498-diagonal-traverse) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Dee123dee/leetcode/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Dee123dee/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Dee123dee/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0638-shopping-offers](https://github.com/Dee123dee/leetcode/tree/master/0638-shopping-offers) |
 | [1143-longest-common-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Dee123dee/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Dee123dee/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Dee123dee/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Dee123dee/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Dee123dee/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0435-non-overlapping-intervals](https://github.com/Dee123dee/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
