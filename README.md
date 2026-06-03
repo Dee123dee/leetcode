@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/Dee123dee/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dee123dee/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Dee123dee/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1314-matrix-block-sum](https://github.com/Dee123dee/leetcode/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Dee123dee/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Dee123dee/leetcode/tree/master/0480-sliding-window-median) |
 | [0904-fruit-into-baskets](https://github.com/Dee123dee/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dee123dee/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Dee123dee/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dee123dee/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1980-find-unique-binary-string](https://github.com/Dee123dee/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dee123dee/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Dee123dee/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/Dee123dee/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/Dee123dee/leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Dee123dee/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Dee123dee/leetcode/tree/master/0696-count-binary-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Dee123dee/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dee123dee/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dee123dee/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dee123dee/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
