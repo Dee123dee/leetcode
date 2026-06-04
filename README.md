@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Dee123dee/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Dee123dee/leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Dee123dee/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0687-longest-univalue-path](https://github.com/Dee123dee/leetcode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/Dee123dee/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dee123dee/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Dee123dee/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Dee123dee/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Dee123dee/leetcode/tree/master/0437-path-sum-iii) |
+| [0687-longest-univalue-path](https://github.com/Dee123dee/leetcode/tree/master/0687-longest-univalue-path) |
 | [0802-find-eventual-safe-states](https://github.com/Dee123dee/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Dee123dee/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dee123dee/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Dee123dee/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Dee123dee/leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Dee123dee/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0687-longest-univalue-path](https://github.com/Dee123dee/leetcode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/Dee123dee/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dee123dee/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Dee123dee/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
