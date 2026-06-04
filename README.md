@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dee123dee/leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Dee123dee/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0319-bulb-switcher](https://github.com/Dee123dee/leetcode/tree/master/0319-bulb-switcher) |
 | [0445-add-two-numbers-ii](https://github.com/Dee123dee/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dee123dee/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0878-nth-magical-number](https://github.com/Dee123dee/leetcode/tree/master/0878-nth-magical-number) |
@@ -584,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Dee123dee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Dee123dee/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
