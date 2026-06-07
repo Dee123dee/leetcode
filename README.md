@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Dee123dee/leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Dee123dee/leetcode/tree/master/0137-single-number-ii) |
+| [0212-word-search-ii](https://github.com/Dee123dee/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Dee123dee/leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Dee123dee/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Dee123dee/leetcode/tree/master/0274-h-index) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Dee123dee/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Dee123dee/leetcode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Dee123dee/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Dee123dee/leetcode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/Dee123dee/leetcode/tree/master/0498-diagonal-traverse) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Dee123dee/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Dee123dee/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Dee123dee/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0212-word-search-ii](https://github.com/Dee123dee/leetcode/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/Dee123dee/leetcode/tree/master/0401-binary-watch) |
 | [0638-shopping-offers](https://github.com/Dee123dee/leetcode/tree/master/0638-shopping-offers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dee123dee/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Dee123dee/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0187-repeated-dna-sequences](https://github.com/Dee123dee/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dee123dee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Dee123dee/leetcode/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Dee123dee/leetcode/tree/master/0402-remove-k-digits) |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Dee123dee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Dee123dee/leetcode/tree/master/0212-word-search-ii) |
 ## Brainteaser
 |  |
 | ------- |
