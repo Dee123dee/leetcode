@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dee123dee/leetcode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Dee123dee/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Dee123dee/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Dee123dee/leetcode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Dee123dee/leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Dee123dee/leetcode/tree/master/0137-single-number-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dee123dee/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Dee123dee/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Dee123dee/leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Dee123dee/leetcode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/Dee123dee/leetcode/tree/master/0498-diagonal-traverse) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Dee123dee/leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Dee123dee/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Dee123dee/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/Dee123dee/leetcode/tree/master/0401-binary-watch) |
 | [0638-shopping-offers](https://github.com/Dee123dee/leetcode/tree/master/0638-shopping-offers) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dee123dee/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Dee123dee/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Dee123dee/leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Dee123dee/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Dee123dee/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0187-repeated-dna-sequences](https://github.com/Dee123dee/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dee123dee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dee123dee/leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Dee123dee/leetcode/tree/master/0210-course-schedule-ii) |
