@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Dee123dee/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Dee123dee/leetcode/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/Dee123dee/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/Dee123dee/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dee123dee/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Dee123dee/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Topological Sort
