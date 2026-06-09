@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Dee123dee/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dee123dee/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dee123dee/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Dee123dee/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dee123dee/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dee123dee/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dee123dee/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dee123dee/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dee123dee/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Dee123dee/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Backtracking
 |  |
 | ------- |
