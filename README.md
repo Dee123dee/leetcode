@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Dee123dee/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Dee123dee/leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Dee123dee/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Dee123dee/leetcode/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Dee123dee/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dee123dee/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dee123dee/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Dee123dee/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Dee123dee/leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Dee123dee/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Dee123dee/leetcode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Dee123dee/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Rolling Hash
 |  |
@@ -532,11 +534,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/Dee123dee/leetcode/tree/master/0729-my-calendar-i) |
+| [0901-online-stock-span](https://github.com/Dee123dee/leetcode/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/Dee123dee/leetcode/tree/master/1622-fancy-sequence) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Dee123dee/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Dee123dee/leetcode/tree/master/0901-online-stock-span) |
 ## Breadth-First Search
 |  |
 | ------- |
