@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Dee123dee/leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Dee123dee/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Dee123dee/leetcode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Dee123dee/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Dee123dee/leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Dee123dee/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Dee123dee/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Dee123dee/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dee123dee/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Dee123dee/leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Dee123dee/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Dee123dee/leetcode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/Dee123dee/leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Dee123dee/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Dee123dee/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dee123dee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Dee123dee/leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/Dee123dee/leetcode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/Dee123dee/leetcode/tree/master/0312-burst-balloons) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Dee123dee/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dee123dee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0638-shopping-offers](https://github.com/Dee123dee/leetcode/tree/master/0638-shopping-offers) |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Dee123dee/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Dee123dee/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Dee123dee/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0139-word-break](https://github.com/Dee123dee/leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Dee123dee/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dee123dee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Dee123dee/leetcode/tree/master/0212-word-search-ii) |
@@ -627,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Dee123dee/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dee123dee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Dee123dee/leetcode/tree/master/0212-word-search-ii) |
 ## Brainteaser
