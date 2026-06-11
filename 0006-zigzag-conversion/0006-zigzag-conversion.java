@@ -1,19 +1,34 @@
 class Solution {
-    public String convert(String s, int numRows) {
-        if (numRows <= 1 || numRows >= s.length()) {
+    public String convert(String s, int num) {
+        if(num==1 || num>s.length()){
             return s;
         }
-        StringBuilder result = new StringBuilder();
-        int cycle = 2 * (numRows - 1);
-        for (int row = 0; row < numRows; row++) {
-            for (int j = row; j < s.length(); j += cycle) {
-                result.append(s.charAt(j));
-                int diagonal = j + cycle - 2 * row;
-                if (row > 0 && row < numRows - 1 && diagonal < s.length()) {
-                    result.append(s.charAt(diagonal));
-                }
-            }
+        
+        List<StringBuilder>res=new ArrayList<>();
+        for(int i=0;i<num;i++){
+            res.add(new StringBuilder());
         }
-        return result.toString();
+        int ind=0;
+        int d=0;
+
+        for(char c:s.toCharArray()){
+            res.get(ind).append(c);
+
+            if(ind==0){
+                d=1;
+            }else if(ind==num-1){
+               d=-1;
+            }
+
+            ind+=d;
+        }
+
+        StringBuilder ans=new StringBuilder();
+
+        for(StringBuilder str:res){
+            ans.append(str);
+        }
+
+        return ans.toString();
     }
 }
