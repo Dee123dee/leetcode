@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Dee123dee/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/Dee123dee/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Dee123dee/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Dee123dee/leetcode/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Dee123dee/leetcode/tree/master/0657-robot-return-to-origin) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Dee123dee/leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Dee123dee/leetcode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Dee123dee/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Dee123dee/leetcode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Dee123dee/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Dee123dee/leetcode/tree/master/0456-132-pattern) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Dee123dee/leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Dee123dee/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/Dee123dee/leetcode/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dee123dee/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dee123dee/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Dee123dee/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
