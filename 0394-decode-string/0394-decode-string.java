@@ -1,9 +1,8 @@
 import java.util.*;
-
 class Solution {
     public String decodeString(String s) {
-        Deque<Integer> countStack = new ArrayDeque<>();
-        Deque<StringBuilder> stringStack = new ArrayDeque<>();
+        Stack<Integer> countStack = new Stack<>();
+        Stack<StringBuilder> stringStack = new Stack<>();
 
         StringBuilder str = new StringBuilder();
         int num = 0;
