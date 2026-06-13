@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Dee123dee/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dee123dee/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dee123dee/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3838-weighted-word-mapping](https://github.com/Dee123dee/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dee123dee/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dee123dee/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3379-transformed-array](https://github.com/Dee123dee/leetcode/tree/master/3379-transformed-array) |
+| [3838-weighted-word-mapping](https://github.com/Dee123dee/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Queue
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dee123dee/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Dee123dee/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Dee123dee/leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/Dee123dee/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
