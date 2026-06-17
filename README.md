@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Dee123dee/leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Dee123dee/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Dee123dee/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0649-dota2-senate](https://github.com/Dee123dee/leetcode/tree/master/0649-dota2-senate) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dee123dee/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dee123dee/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/Dee123dee/leetcode/tree/master/0649-dota2-senate) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dee123dee/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dee123dee/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Dee123dee/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Dee123dee/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Dee123dee/leetcode/tree/master/0409-longest-palindrome) |
+| [0649-dota2-senate](https://github.com/Dee123dee/leetcode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Dee123dee/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Dee123dee/leetcode/tree/master/0696-count-binary-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1143-longest-common-subsequence) |
