@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Dee123dee/leetcode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/Dee123dee/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dee123dee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dee123dee/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Dee123dee/leetcode/tree/master/0409-longest-palindrome) |
 | [0480-sliding-window-median](https://github.com/Dee123dee/leetcode/tree/master/0480-sliding-window-median) |
 | [0904-fruit-into-baskets](https://github.com/Dee123dee/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dee123dee/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Dee123dee/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/Dee123dee/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dee123dee/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0480-sliding-window-median](https://github.com/Dee123dee/leetcode/tree/master/0480-sliding-window-median) |
 | [0713-subarray-product-less-than-k](https://github.com/Dee123dee/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Dee123dee/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dee123dee/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Dee123dee/leetcode/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dee123dee/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Dee123dee/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Dee123dee/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Dee123dee/leetcode/tree/master/0415-add-strings) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Dee123dee/leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Dee123dee/leetcode/tree/master/0190-reverse-bits) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dee123dee/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dee123dee/leetcode/tree/master/3719-longest-balanced-subarray-i) |
