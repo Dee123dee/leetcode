@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Dee123dee/leetcode/tree/master/0649-dota2-senate) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dee123dee/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dee123dee/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dee123dee/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dee123dee/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dee123dee/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Dee123dee/leetcode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Dee123dee/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Dee123dee/leetcode/tree/master/0696-count-binary-substrings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dee123dee/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Dee123dee/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dee123dee/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Dee123dee/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/Dee123dee/leetcode/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Dee123dee/leetcode/tree/master/0946-validate-stack-sequences) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dee123dee/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dee123dee/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/Dee123dee/leetcode/tree/master/1472-design-browser-history) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dee123dee/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Dee123dee/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dee123dee/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/Dee123dee/leetcode/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dee123dee/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Dee123dee/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Rolling Hash
 |  |
