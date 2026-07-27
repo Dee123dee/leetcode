@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Dee123dee/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/Dee123dee/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1314-matrix-block-sum](https://github.com/Dee123dee/leetcode/tree/master/1314-matrix-block-sum) |
+| [1324-print-words-vertically](https://github.com/Dee123dee/leetcode/tree/master/1324-print-words-vertically) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Dee123dee/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Dee123dee/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Dee123dee/leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Dee123dee/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0946-validate-stack-sequences](https://github.com/Dee123dee/leetcode/tree/master/0946-validate-stack-sequences) |
+| [1324-print-words-vertically](https://github.com/Dee123dee/leetcode/tree/master/1324-print-words-vertically) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dee123dee/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dee123dee/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dee123dee/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Dee123dee/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dee123dee/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1324-print-words-vertically](https://github.com/Dee123dee/leetcode/tree/master/1324-print-words-vertically) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dee123dee/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dee123dee/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dee123dee/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
