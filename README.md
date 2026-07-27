@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
 | [1424-diagonal-traverse-ii](https://github.com/Dee123dee/leetcode/tree/master/1424-diagonal-traverse-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dee123dee/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dee123dee/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Dee123dee/leetcode/tree/master/1472-design-browser-history) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dee123dee/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dee123dee/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/Dee123dee/leetcode/tree/master/1402-reducing-dishes) |
 | [1424-diagonal-traverse-ii](https://github.com/Dee123dee/leetcode/tree/master/1424-diagonal-traverse-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dee123dee/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dee123dee/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dee123dee/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dee123dee/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Dee123dee/leetcode/tree/master/1424-diagonal-traverse-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dee123dee/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dee123dee/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dee123dee/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Monotonic Queue
 |  |
