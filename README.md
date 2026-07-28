@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dee123dee/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dee123dee/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Dee123dee/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/Dee123dee/leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Dee123dee/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Dee123dee/leetcode/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Dee123dee/leetcode/tree/master/0931-minimum-falling-path-sum) |
