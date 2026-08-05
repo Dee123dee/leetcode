@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Dee123dee/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Dee123dee/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dee123dee/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dee123dee/leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2906-construct-product-matrix](https://github.com/Dee123dee/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dee123dee/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dee123dee/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1980-find-unique-binary-string](https://github.com/Dee123dee/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dee123dee/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dee123dee/leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dee123dee/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dee123dee/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dee123dee/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
