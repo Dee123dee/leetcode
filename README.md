@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dee123dee/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2293-min-max-game](https://github.com/Dee123dee/leetcode/tree/master/2293-min-max-game) |
 | [2381-shifting-letters-ii](https://github.com/Dee123dee/leetcode/tree/master/2381-shifting-letters-ii) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Dee123dee/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dee123dee/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/Dee123dee/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dee123dee/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dee123dee/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dee123dee/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dee123dee/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Dee123dee/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Memoization
 |  |
 | ------- |
