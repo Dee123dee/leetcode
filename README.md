@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Dee123dee/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dee123dee/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/Dee123dee/leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dee123dee/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dee123dee/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dee123dee/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3848-check-digitorial-permutation](https://github.com/Dee123dee/leetcode/tree/master/3848-check-digitorial-permutation) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dee123dee/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dee123dee/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Dee123dee/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Dee123dee/leetcode/tree/master/3713-longest-balanced-substring-i) |
