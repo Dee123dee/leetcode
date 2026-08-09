@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dee123dee/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3379-transformed-array](https://github.com/Dee123dee/leetcode/tree/master/3379-transformed-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Dee123dee/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Dee123dee/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dee123dee/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Dee123dee/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dee123dee/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dee123dee/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dee123dee/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dee123dee/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Dee123dee/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Dee123dee/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Dee123dee/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Dee123dee/leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dee123dee/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2293-min-max-game](https://github.com/Dee123dee/leetcode/tree/master/2293-min-max-game) |
 | [3379-transformed-array](https://github.com/Dee123dee/leetcode/tree/master/3379-transformed-array) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Dee123dee/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dee123dee/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Dee123dee/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/Dee123dee/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dee123dee/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-vowels-game-in-a-string](https://github.com/Dee123dee/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dee123dee/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Dee123dee/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dee123dee/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Dee123dee/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Dee123dee/leetcode/tree/master/3714-longest-balanced-substring-ii) |
