@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Dee123dee/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Dee123dee/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dee123dee/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0292-nim-game](https://github.com/Dee123dee/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Dee123dee/leetcode/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/Dee123dee/leetcode/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/Dee123dee/leetcode/tree/master/0415-add-strings) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Dee123dee/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Dee123dee/leetcode/tree/master/0319-bulb-switcher) |
 | [3227-vowels-game-in-a-string](https://github.com/Dee123dee/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Number Theory
@@ -829,6 +831,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Dee123dee/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Dee123dee/leetcode/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Dee123dee/leetcode/tree/master/3227-vowels-game-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dee123dee/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dee123dee/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dee123dee/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
