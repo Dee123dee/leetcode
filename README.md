@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dee123dee/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dee123dee/leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2906-construct-product-matrix](https://github.com/Dee123dee/leetcode/tree/master/2906-construct-product-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Dee123dee/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dee123dee/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dee123dee/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dee123dee/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dee123dee/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dee123dee/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2293-min-max-game](https://github.com/Dee123dee/leetcode/tree/master/2293-min-max-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Dee123dee/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Dee123dee/leetcode/tree/master/3379-transformed-array) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Dee123dee/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dee123dee/leetcode/tree/master/3612-process-string-with-special-operations-i) |
