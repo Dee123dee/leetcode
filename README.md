@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dee123dee/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Dee123dee/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dee123dee/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dee123dee/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dee123dee/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2293-min-max-game](https://github.com/Dee123dee/leetcode/tree/master/2293-min-max-game) |
 | [2381-shifting-letters-ii](https://github.com/Dee123dee/leetcode/tree/master/2381-shifting-letters-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Dee123dee/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dee123dee/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dee123dee/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dee123dee/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Dee123dee/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dee123dee/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dee123dee/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
