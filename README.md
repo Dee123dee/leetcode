@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Dee123dee/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Dee123dee/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Dee123dee/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dee123dee/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dee123dee/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Dee123dee/leetcode/tree/master/0057-insert-interval) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dee123dee/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Dee123dee/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Dee123dee/leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Dee123dee/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Dee123dee/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Dee123dee/leetcode/tree/master/0079-word-search) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dee123dee/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Dee123dee/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Dee123dee/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Dee123dee/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Dee123dee/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Dee123dee/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Dee123dee/leetcode/tree/master/0096-unique-binary-search-trees) |
